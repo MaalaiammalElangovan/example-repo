@@ -16,9 +16,11 @@ Vue Instances
 
 Conditional Rendering
 
-Directives 
+Directives (Creating Custom directives)
 
 Looping (Arrays, Objects, Numbers)
+
+Communicating between components
 
 Router
 
